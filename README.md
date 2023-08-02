@@ -1,5 +1,8 @@
 # Lab-10
 EDA On Titanic Dataset
+
+CSV file Source :- https://github.com/awesomedata/awesome-public-datasets 
+
 EDA OutPut :- 
 
 <img width="518" alt="image" src="https://github.com/thisispriyankpatel/Lab-10/assets/124012521/69798b82-dc94-45ae-b098-31105d76adef">
